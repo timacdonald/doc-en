@@ -281,7 +281,7 @@ You are using Firefox.
    </para>
    <para>
     Here we introduce a couple of new concepts. We have an 
-    <link linkend="control-structures.if">if</link> statement.
+    <literal><link linkend="control-structures.if">if</link></literal> statement.
     If you are familiar with the basic syntax used by the C
     language, this should look logical to you. Otherwise, you
     should probably pick up an introductory PHP book and read the first
